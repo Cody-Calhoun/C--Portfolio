@@ -1,0 +1,36 @@
+header {
+    display: inline-block;
+    width: 970px;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    list-style: none;
+    width: 45%;
+}
+li {
+    display: inline-block;
+    padding: 5px;
+}
+
+.content {
+    display: inline-block;
+    width: 970px;
+
+}
+
+.image_name {
+    display: inline-block;
+    width: 45%;
+}
+
+.image_name img {
+    width: 65%;
+}
+
+.about_para {
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}

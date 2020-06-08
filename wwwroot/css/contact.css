@@ -1,0 +1,23 @@
+header {
+    display: inline-block;
+    width: 970px;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    list-style: none;
+    width: 45%;
+}
+li {
+    display: inline-block;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin: 0 auto;
+}

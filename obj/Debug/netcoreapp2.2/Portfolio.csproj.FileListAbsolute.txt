@@ -12,3 +12,14 @@
 /Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorTargetAssemblyInfo.cache
 /Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.dll
 /Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.pdb
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.Views.dll
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.Views.pdb
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.TagHelpers.input.cache
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.TagHelpers.output.cache
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorCoreGenerate.cache
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorTargetAssemblyInfo.cs
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.Views.pdb
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.csproj.CopyComplete
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Projects.g.cshtml.cs
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.g.cshtml.cs

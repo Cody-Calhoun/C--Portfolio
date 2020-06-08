@@ -7,23 +7,23 @@ namespace Portfolio
     {
         [HttpGet("")]
 
-        public string Index()
+        public ViewResult Index()
         {
-            return "This is my index!";
+            return View();
         }
 
         [HttpGet("projects")]
 
-        public string Projects()
+        public ViewResult Projects()
         {
-            return "These are my projects.";
+            return View();
         }
 
         [HttpGet("contact")]
 
-        public string Contacts()
+        public ViewResult Contact()
         {
-            return "This is my Contact!";
+            return View();
         }
     }
 }
